@@ -9,8 +9,8 @@ import dht
 # ─────────────────────────────────────────
 SSID       = "Robotic WIFI"
 PASSWORD   = "rbtWIFI@2025"
-BOT_TOKEN  = "8755054530:AAGuenYEjOP6otshQhmeOnaSjHfwd6RoDJU"
-CHAT_ID    = "-1003919157635"
+BOT_TOKEN  = ""
+CHAT_ID    = ""
 
 TEMP_THRESHOLD = 33.0   # °C  – alert / auto-OFF boundary
 POLL_INTERVAL  = 5      # seconds per loop
